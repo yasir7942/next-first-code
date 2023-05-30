@@ -39,7 +39,7 @@ export async function fetchData() {
     //   console.log(data.data); // Log the fetched data
 
        return response;
-      // Process the data or update your component's state with the fetched data
+      // Process the data or update your component's state with the fetched data  ...
     } catch (error) {
       // Handle any errors that occurred during the request
     }
